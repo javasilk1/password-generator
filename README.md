@@ -35,7 +35,7 @@ export default App;
 ```
 ````
 
-#Props
+## Props
 
 The PasswordGenerator component accepts the following optional props:
 
@@ -47,7 +47,7 @@ The PasswordGenerator component accepts the following optional props:
 
 Example usage with custom options:
 
-
+npx create-react-app emoji-picker --template typescript
 
 ````
 ```
@@ -64,9 +64,9 @@ import PasswordGenerator from "./components/PasswordGenerator";
 export default App;
 ```
 ````
-#Contributing
+## Contributing
 Contributions to the Password Generator project are welcome! If you find a bug, have an enhancement in mind, or want to contribute in any way, please feel free to open an issue or submit a pull request.
-#License
+## License
 This project is licensed under the MIT License - see the [LICENSE](# EventViewCli
 
 
